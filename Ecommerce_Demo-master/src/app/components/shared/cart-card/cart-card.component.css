@@ -1,0 +1,17 @@
+button{
+  width: 80%;
+ 
+  padding: auto;
+  background-color: violet;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover{
+  color: white;
+}
+
+.totalPrice{
+  color: blue;
+  font-size: 2rem;
+  font-weight: bold;
+}

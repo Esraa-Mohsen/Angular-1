@@ -1,0 +1,34 @@
+.nav-container {
+  background-color: palevioletred;
+padding: 5px;
+}
+.img{
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50px;
+
+}
+
+a{
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid powderblue ;
+  color: white;
+}
+.login{
+  color: black;
+  background-color: orchid ;
+}
+
+.register{
+  color: black;
+  font-style: bold;
+}
+.register:hover{
+  color: white;
+  font-style: bold;
+}
+.name{
+  font-weight: bold;
+}

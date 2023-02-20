@@ -1,0 +1,29 @@
+.input-container{
+  height: 50vh;
+  border: 2px solid black;
+  width: 50%;
+  padding: 20px;
+  margin: 100px auto 0 auto;
+  border-radius: 10px;
+  background-color: peachpuff;
+}
+
+
+
+.img{
+  height: 4rem;
+  width: 4rem;
+  border-radius: 30px;
+}
+.login{
+  font-weight: bold;
+  font-size: xx-large;
+  color: black;
+}
+.login-button{
+  font-size: larger;
+  font-weight: bold;
+  background-color: peachpuff;
+  color: black;
+}
+
